@@ -1,0 +1,1 @@
+pyinstaller --onefile --name VideoConverter main.py
